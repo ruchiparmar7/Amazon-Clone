@@ -1,0 +1,14 @@
+stipe installation 1.04.49
+strip2 1.05.25
+axios install
+express install
+moment install
+
+
+firebase cloud fun - 1.51.47
+firebase emulators:start
+install stripe in cloud
+express install
+
+
+for another firebase hosting remove firebase.json --> rewrites
