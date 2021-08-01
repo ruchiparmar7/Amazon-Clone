@@ -21,7 +21,7 @@ function header() {
         
         <div class='header'>
             <Link to="/">
-                <img className="header_logo" src={"https://mikekitko.com/wp-content/uploads/2019/10/amazon-logo-white-768x232.png"}/>
+                <img className="header_logo" src={"https://silverhillsbakery.ca/wp-content/uploads/2021/03/Amazon-logo-white.png"}/>
             </Link>
             <div className="header_search">
                 <input className="header_serachinput" type="text"></input>

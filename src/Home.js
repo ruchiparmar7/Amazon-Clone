@@ -9,7 +9,7 @@ function Home() {
         <div className="home_container">
             <img className="home_img"  src={"https://images-na.ssl-images-amazon.com/images/G/01/AmazonMusic/2020/ACQ/Gateway/HolidayNonPromo/DV5/US-EN_100120_HOLNonPromo_ACQ_GW_Hero_D_3000x1200_CV4_2._CB415751492_.jpg"}/>
             <div className="home_row">
-                <Product id="1234523" title='The Vivek startup' price={29.99} image="https://m.media-amazon.com/images/I/515CfVuCtSL.jpg" rating={5} />
+                <Product id="1234523" title='The Vivek Bindra' price={29.99} image="https://m.media-amazon.com/images/I/515CfVuCtSL.jpg" rating={5} />
                 <Product id="23456812" title='Elon musk book' price={19.99} image="https://images-na.ssl-images-amazon.com/images/I/5112YFsXIJL.jpg" rating={4}/>
 
                 

@@ -13,7 +13,7 @@ import Payment from './Payment';
 import {Elements} from '@stripe/react-stripe-js';
 import {loadStripe} from '@stripe/stripe-js';
 import Orders from './Orders';
-const stripePromise = loadStripe('pk_test_51J9OqqSJ5VCPWl2rYaEuzdne2K4PDv7TrHrn7ohTFdRjIqSk1C8TPvn0NdmfvXcsaG0a42Ii0MsVH6gLlLfnY49a006A9vBEtw');
+const stripePromise = loadStripe('publishable keys');
 
 
 function App() {
