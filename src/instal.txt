@@ -12,3 +12,16 @@ express install
 
 
 for another firebase hosting remove firebase.json --> rewrites
+*************************************************************************
+frontened 
+npm install @material-ui/icons
+npm install --save @stripe/react-stripe-js @stripe/stripe-js
+npm install axios
+npm install -g firebase-tools
+npm install moment --save 
+npm install react-currency-format --save
+
+function
+npm install stripe --save
+npm install express
+npm i cors
