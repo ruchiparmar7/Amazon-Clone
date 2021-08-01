@@ -1,5 +1,5 @@
 # Amazon Clone 1.0
-[![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)]
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ## Screenshot
 <img src = "Images/ss 1.png">
@@ -25,7 +25,7 @@
 - Run same command in function folder: npm i
 - Now lets run project
   1. For Frontend (AMAZON folder) run command: npm start
-  2. For Backened (AMAZON/function folder) run command: [Link](https://blog.usejournal.com/build-a-serverless-full-stack-app-using-firebase-cloud-functions-81afe34a64fc)  
+  2. For Backened (AMAZON/function folder) follow link: [Link](https://blog.usejournal.com/build-a-serverless-full-stack-app-using-firebase-cloud-functions-81afe34a64fc)  
 - To Deploy a App with Firebase Hosting: [Link](https://medium.com/swlh/how-to-deploy-a-react-app-with-firebase-hosting-98063c5bf425)
 
 
